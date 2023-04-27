@@ -3,17 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "jcvanwert.github.io"
+  title: "Jacey C. Van Wert"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
       - about.qmd
+      - research.qmd
+      - href: CV/VanWert_cv.pdf
+        text: cv
+
+      
+  page-footer: 
+    background: light
+    left: 
+      - "Copyright 2023, Jacey Van Wert"
+    right: 
+      - icon: github
+        href: https://github.com/jcvanwert
+      - icon: twitter
+        href: https://twitter.com/jacey_van_wert
+      #  - icon: researchgate
+      #    href: https://www.researchgate.net/profile/Jacey-Van-Wert?ev=hdr_xprf
+     # - icon: google-scholar
+     #   href: https://scholar.google.com/citations?user=R_tz8jMAAAAJ&hl=en
+  reader-mode: true
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - oceans.scss
     toc: true
 
 editor: visual

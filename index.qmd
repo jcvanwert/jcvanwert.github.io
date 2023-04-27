@@ -1,11 +1,30 @@
 ---
-title: "jcvanwert.github.io"
+title: "Jacey C. Van Wert"
+image:  images/jc.jpeg
+about:
+  template: jolla
+  image-shape: round
+  links:
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Jacey-Van-Wert?ev=hdr_xprf
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=R_tz8jMAAAAJ&hl=en
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jacey-van-wert-a5b43b1bb/
+    - text: Twitter
+      href: https://twitter.com/jacey_van_wert
+    - text: GitHub
+      href: https://github.com/jcvanwert
+    - text: Email
+      href: mailto:jcvanwert@ucsb.edu
 ---
 
-This is a Quarto website.
+### hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<p class="topbr">
 
-```{r}
-1 + 1
-```
+I'm Jacey. I'm a PhD candidate at UC Santa Barbara in the [Eliason Lab](https://erikaeliason.com/). If I'm not at my desk or in the field, you'll typically find me in the water or at the beach with my pup.
+
+</p>
+
+------------------------------------------------------------------------

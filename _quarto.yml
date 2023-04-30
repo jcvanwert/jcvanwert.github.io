@@ -32,8 +32,10 @@ website:
 
 format:
   html:
+    page-layout: full
     theme: 
     - oceans.scss
+    # css: styles.css
     toc: true
 
 editor: visual

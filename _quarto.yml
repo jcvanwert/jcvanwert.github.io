@@ -11,7 +11,7 @@ website:
       - about.qmd
       - research.qmd
       - land.and.sea.qmd
-      - href: CV/VanWert_CV.pdf
+      - href: cv/VanWert_CV.pdf
         text: cv
 
       

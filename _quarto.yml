@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Jacey C. Van Wert"
+ # title: "Jacey C. Van Wert"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: home
       - about.qmd
       - research.qmd
+      - land.and.sea.qmd
       - href: CV/VanWert_cv.pdf
         text: cv
 

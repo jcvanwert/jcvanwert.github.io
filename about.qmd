@@ -1,5 +1,23 @@
 ---
-title: "About"
+title: "about"
+subtitle: thanks for taking the time to learn about me. 
 ---
 
-Get to know me 
+## fresh air `r fontawesome::fa("earth", fill = "#c7949b", a11y = "sem")`
+
+Hard work can be draining, so I value the time I can get outdoors. I am privileged to live by the ocean and travel to other beautiful places for work. I try to make the most of this by finding quiet time to myself, whether it be on a surfboard or on a walk with my pup. When I can't hear the birds, that's when I know it's time to hike somewhere and sleep outside for a few days.  
+
+---
+
+![](images/bigsur.jpeg){fig-alt="Me and Mako in Big Sur." fig-align="center"}
+
+## intro to science `r fontawesome::fa("microscope", fill = "#c7949b", a11y = "sem")`
+Like most people, my path to present day is nonlinear. It started off with a childhood in the woods and backyard, a yearning for sunshine and warmth, and a few dedicated teachers at Santa Barbara City College. During my CC days, I had my first research experience at UC Santa Barbara studying raccoon parasites with at the time, graduate student [Sara Weinstein](https://www.sarabweinstein.com/). I loved the process of science and wanted more, and was awarded an NSF REU at the [Marine Biological Laboratory in Woods Hole](https://www.mbl.edu/). I worked with [Dr. Allen Mensinger](https://scse.d.umn.edu/faculty-staff/dr-allen-mensinger) on toadfish bioacoustics. At the time, I had no idea fish vocalized! I spent several additional summmers studying toadfish neurophysiology and was hooked to physiology. 
+
+I wanted to merge my scientific background with my desire to learn and conserve vulnerable systems. That brings me to today, my final year or so as a PhD candidate at UC Santa Barbara in Dr. Erika Eliasons' [lab](https://erikaeliason.com/). 
+
+
+
+
+
+

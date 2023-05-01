@@ -26,8 +26,9 @@ website:
         href: https://twitter.com/jacey_van_wert
       #  - icon: researchgate
       #    href: https://www.researchgate.net/profile/Jacey-Van-Wert?ev=hdr_xprf
-     # - icon: google-scholar
-     #   href: https://scholar.google.com/citations?user=R_tz8jMAAAAJ&hl=en
+      # - icon: google-scholar
+      #   href: https://scholar.google.com/citations?user=R_tz8jMAAAAJ&hl=en
+     
   reader-mode: true
 
 format:

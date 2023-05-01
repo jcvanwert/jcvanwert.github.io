@@ -3,7 +3,7 @@ title: "research"
 subtitle: I study how fish survive in their surroundings to better understand these important animals under changing climate.
 ---
 
-## Pacific Salmon 
+## Pacific Salmon
 
 In short, I assess the vulnerability of various species of Pacific salmon to changing river conditions (warm waters, various flow rates) to protect and conserve this threatened species. In collaboration with various stakeholders, I use a variety of techniques including blood physiology, enzyme and metabolite metrics, histology, respirometry, and tagging and tracking.
 
@@ -27,7 +27,7 @@ knitr::include_graphics("images/scuba.jpeg")
 
 Observing fish on the forereef in Moorea, French Polynesia.
 
-## Fisheries 
+## Fisheries
 
 I recently was awarded funding by NSF to work with [NOAA Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) to assess various management strategies on incidental by-catch of protected species. More to come!
 

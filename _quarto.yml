@@ -10,6 +10,7 @@ website:
         text: home
       - about.qmd
       - research.qmd
+      - community.qmd
       - href: cv/vanwert_cv.pdf
         text: cv
 

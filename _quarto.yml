@@ -10,7 +10,6 @@ website:
         text: home
       - about.qmd
       - research.qmd
-      - land.and.sea.qmd
       - href: cv/vanwert_cv.pdf
         text: cv
 

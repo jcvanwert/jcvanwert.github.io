@@ -6,7 +6,10 @@ website:
  ## title: "Jacey C. Van Wert" 
   site-url: https://jcvanwert.github.io/
   google-analytics: 
-    tracking-id:<meta name="google-site-verification" content="sB0jpdQYu7s0TXAhAYT6RLH0HgoRS1pFlGSF7095SkY" />
+    tracking-id: "G-Q3L7VRRTHG"
+    anonymize-ip: true
+
+    
   navbar:
     right:
       - href: index.qmd

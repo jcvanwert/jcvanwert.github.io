@@ -31,7 +31,7 @@ collabs_maps <- ggplot() +
     ggtitle("PhD Collaborations")+
   scale_size(range=c(3, 5), breaks=c(1, 5, 10, 15))+
     theme_map()+
-    theme(plot.title = element_text(colour = "snow1", size =20),
+    theme(plot.title = element_text(colour = "snow1", size =18),
           legend.background = element_rect(fill="transparent"),
           legend.title = element_text(color = "snow1"),
           legend.text = element_text(color = "snow1"),
@@ -70,11 +70,12 @@ x<-ggplot(pres_count, aes(x = presentation_type, y = n))+
   theme(text=element_text(size=20), #change font size of all text
         axis.text=element_text(size=20), #change font size of axis text
         axis.title=element_text(size=20, color = "snow1"), #change font size of axis titles
-        plot.title=element_text(size=24, color = "snow1"), #change font size of plot title
+        plot.title=element_text(size=20, color = "snow1"), #change font size of plot title
         legend.text=element_text(size=20), #change font size of legend text
         legend.title=element_text(size=20), #change font size of legend title   
         axis.text.x=element_text(colour="snow1"),
-        axis.text.y=element_text(colour="snow1")  )
-ggsave(here("phd-metrics", "plots", "presentations.png"), width = 10, height = 8)
+        axis.text.y=element_text(colour="snow1"),
+        axis.ticks = element_blank()  )
+ggsave(here("phd-metrics", "plots", "presentations.png"), width = 12, height = 10)
 
 ```

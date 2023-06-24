@@ -28,7 +28,7 @@ collabs_maps <- ggplot() +
     geom_sf(data = world, color = "black", fill = "snow1")+
   coord_sf(xlim= c(-180, 180), ylim = c(-50, 80))+
     geom_point(data = collabs, aes(y = lat, x = long, size = Count), color = "#c7949b", alpha = .6)+
-    ggtitle("PhD Collaborations")+
+  #  ggtitle("PhD Collaborations")+
   scale_size(range=c(3, 5), breaks=c(1, 5, 10, 15))+
     theme_map()+
     theme(plot.title = element_text(colour = "snow1", size =18),
@@ -54,7 +54,7 @@ pres_count <- pres %>%
 x<-ggplot(pres_count, aes(x = presentation_type, y = n))+
   geom_col(fill = "#c7949b", width = 0.6)+
   labs(y = "Number", x = "\nPresentation type")+
-  ggtitle("Presentations throughout PhD")+
+  #ggtitle("Presentations throughout PhD")+
   scale_y_continuous(breaks = c(0, 5, 10))+
   scale_x_discrete(labels = function(x) str_wrap(x, width = 10))+
   theme(

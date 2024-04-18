@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
-    "section": "",
-    "text": "Hard work can be draining, so I value the time I can get outdoors. I am privileged to live by the ocean and travel to other beautiful places for work. I try to make the most of this by finding quiet time to myself, whether it be on a surfboard or on a walk with my pup. When I can’t hear the birds, that’s when I know it’s time to hike somewhere and sleep outside for a few days."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jacey C. Van Wert",
-    "section": "",
-    "text": "hello!\n\nI’m Jacey. I’m a PhD candidate at UC Santa Barbara in the Eliason Lab. If I’m not at my desk or in the field, you’ll typically find me in the water or in the sand with my pup."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "research",
     "section": "",
     "text": "In short, I assess the vulnerability of various species of Pacific salmon to changing river conditions (warm waters, various flow rates) to protect and conserve this threatened species. In collaboration with various stakeholders, I use a variety of techniques including blood physiology, enzyme and metabolite metrics, histology, respirometry, and tagging and tracking.\n\n\n\n\n\nSockeye salmon radio-tagged on the Fraser River. PC: Kim Birnie-Gauvin"
-  },
-  {
-    "objectID": "about.html#land-meets-sea",
-    "href": "about.html#land-meets-sea",
-    "title": "about",
-    "section": "land meets sea",
-    "text": "land meets sea"
-  },
-  {
-    "objectID": "research.html#consequences-of-a-marine-heatwave-on-the-performance-of-coral-reef-fish",
-    "href": "research.html#consequences-of-a-marine-heatwave-on-the-performance-of-coral-reef-fish",
-    "title": "research",
-    "section": "Consequences of a marine heatwave on the performance of coral reef fish",
-    "text": "Consequences of a marine heatwave on the performance of coral reef fish"
-  },
-  {
-    "objectID": "research.html#section",
-    "href": "research.html#section",
-    "title": "research",
-    "section": "---",
-    "text": "---"
   },
   {
     "objectID": "research.html#coral-reef-fish",
@@ -56,39 +21,46 @@
     "text": "Fisheries\nIn summer 2023, I was awarded funding by NSF to work with NOAA Pacific Islands Fisheries Science Center to assess the effect of effort displacement due to economic exclusion zones on the by-catch of protected species. Leveraging machine learning, we are working with longterm fisheries data to investigate these impacts.\n\n\n\n\n\nFishing vessel. PC: Ocean Image Bank, Nicolas Jab"
   },
   {
-    "objectID": "moments.html",
-    "href": "moments.html",
-    "title": "land and sea",
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "community",
     "section": "",
-    "text": "Anemonefish in Moorea, French Polynesia.\n\n\n\n\n\nBlacktip reef shark in Moorea, French Polynesia.\n\n\n\n\n\nKokanee salmon in interior British Columbia, Canada."
+    "text": "collaborations\nI’ve been fortunate to have worked with brilliant minds from across the globe. I value each and everyone’s perspective that has been influential to my career and personal development.\n\n\n\n\n\n\n\ndissemination\nWhat is knowledge if it isn’t shared? Not only do I care about sharing my scientific findings, but it is important to share my experiences. Below are some ways I’ve shared my scientific journey, perspective, and science throughout my PhD.\n\n\n\n\n\n\n\n\n\nThe metrics above are inspired by Phoebe Racine."
   },
   {
-    "objectID": "moments.html#section",
-    "href": "moments.html#section",
-    "title": "moments",
+    "objectID": "phd-metrics.html",
+    "href": "phd-metrics.html",
+    "title": "PhD metrics",
     "section": "",
-    "text": "Blacktip reef shark in Moorea, French Polynesia.\n\n\n\n\n\nKokanee salmon in interior British Columbia, Canada."
+    "text": "world <- ne_countries(scale = \"medium\", returnclass = \"sf\")\ncollabs <- read.csv(here(\"phd-metrics\", \"map\", \"collabs-coordinates.csv\"))\n\ncollabs_maps <- ggplot() +\n    geom_sf(data = world, color = \"black\", fill = \"snow1\")+\n  coord_sf(xlim= c(-180, 180), ylim = c(-50, 80))+\n    geom_point(data = collabs, aes(y = lat, x = long, size = Count), color = \"#c7949b\", alpha = .6)+\n  #  ggtitle(\"PhD Collaborations\")+\n  scale_size(range=c(3, 5), breaks=c(1, 5, 10, 15))+\n    theme_map()+\n    theme(plot.title = element_text(colour = \"snow1\", size =18),\n          legend.background = element_rect(fill=\"transparent\"),\n          legend.title = element_text(color = \"snow1\"),\n          legend.text = element_text(color = \"snow1\"),\n          legend.key = element_rect(fill = \"transparent\"))\n\nggsave(here(\"phd-metrics\", \"map\", \"map_collabs.png\"), height = 4, width = 8)"
   },
   {
-    "objectID": "land.and.sea.html",
-    "href": "land.and.sea.html",
-    "title": "land and sea",
+    "objectID": "phd-metrics.html#presentations",
+    "href": "phd-metrics.html#presentations",
+    "title": "PhD metrics",
+    "section": "Presentations",
+    "text": "Presentations\n\npres <- read.csv(here(\"phd-metrics\", \"plots\", \"presentations.csv\"))\n\npres_count <- pres %>%\n  dplyr::count(presentation_type)%>%\n  filter(n<100)\n\nx<-ggplot(pres_count, aes(x = presentation_type, y = n))+\n  geom_col(fill = \"#c7949b\", width = 0.6)+\n  labs(y = \"Number\", x = \"\\nPresentation type\")+\n  #ggtitle(\"Presentations throughout PhD\")+\n  scale_y_continuous(breaks = c(0, 5, 10))+\n  scale_x_discrete(labels = function(x) str_wrap(x, width = 10))+\n  theme(\n  panel.background = element_rect(fill = \"transparent\",\n                                  colour = NA_character_), # necessary to avoid drawing panel outline\n  panel.grid.major = element_blank(), # get rid of major grid\n  panel.grid.minor = element_blank(), # get rid of minor grid\n  plot.background = element_rect(fill = \"transparent\",\n                                 colour = NA_character_), # necessary to avoid drawing plot outline\n  legend.background = element_rect(fill = \"transparent\"),\n  legend.box.background = element_rect(fill = \"transparent\"),\n  legend.key = element_rect(fill = \"transparent\"))+\n  theme(text=element_text(size=20), #change font size of all text\n        axis.text=element_text(size=20), #change font size of axis text\n        axis.title=element_text(size=20, color = \"snow1\"), #change font size of axis titles\n        plot.title=element_text(size=20, color = \"snow1\"), #change font size of plot title\n        legend.text=element_text(size=20), #change font size of legend text\n        legend.title=element_text(size=20), #change font size of legend title   \n        axis.text.x=element_text(colour=\"snow1\"),\n        axis.text.y=element_text(colour=\"snow1\"),\n        axis.ticks = element_blank()  ,\n        axis.line.x.bottom=element_line(color=\"snow1\"),\n        axis.line.y = element_line(color = \"snow1\"))\nggsave(here(\"phd-metrics\", \"plots\", \"presentations.png\"), width = 12, height = 6)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacey C. Van Wert",
     "section": "",
-    "text": "There is no easy way to acknowledge those who have been oppressed by my actions or inactions. I hope to demonstrate my sincerity and gratitude despite this virtual platform. As a scholar and European descendant, I have benefited from the systemic oppression, exclusion, and erasures of Indigenous peoples across North American lands. I am located in central coastal California and work and live on the unceded ancestral lands and waters of the Chumash people. I am grateful for the generations of Chumash people who have stewarded these lands and waters that I use today for life, work, and recreation. I am committed to continue learning about the systemic oppression and work towards a more equitable system. I aim to promote the work of oppressed voices and collaborate across community members and stakeholders, with the shared goals to conserve our natural resources. I invite all feedback and remain open minded as I develop into the scientist that I want to be.\nAn important first step is for us to understand the Native Land and history in which we work and live. This interactive map may be useful to you."
+    "text": "hello!\n\nI’m Jacey. I’m a PhD candidate at UC Santa Barbara in the Eliason Lab. If I’m not at my desk or in the field, you’ll typically find me in the water or in the sand with my pup."
   },
   {
-    "objectID": "land.and.sea.html#fish",
-    "href": "land.and.sea.html#fish",
-    "title": "land and sea",
-    "section": "Fish",
-    "text": "Fish\n\n\n\n\n\nAnemonefish in Moorea, French Polynesia.\n\n\n\n\n\nBlacktip reef shark in Moorea, French Polynesia.\n\n\n\n\n\nKokanee salmon in interior British Columbia, Canada."
-  },
-  {
-    "objectID": "about.html#land-and-sea",
-    "href": "about.html#land-and-sea",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "about",
-    "section": "land and sea",
-    "text": "land and sea\n\nI am grateful for the land that I work on, live on, and visit.\nThere is no easy way to acknowledge those who have been oppressed by my actions or inactions. On a virtual platform, it is further challenging to demonstrate my sincerity and gratitude. As a scholar and European descendant, I have benefited from the systemic oppression, exclusion, and erasures of Indigenous peoples across North American lands. I am located in central coastal California and work and live on the unceded ancestral lands and waters of the Chumash people. I am grateful for the generations of Chumash people who have stewarded these lands and waters that I use today for life, work, and recreation. I am committed to continue learning about the systemic oppression and work towards a more equitable system. With my work as a scientist, I hope to restore and conserve our natural resources.\nAn important first step is for us to understand the Native Land and history in which we work and live. This interactive map may be useful: https://native-land.ca/"
+    "section": "",
+    "text": "I am an aquatic physiologist working as a postdoctoral scholar in Hawaii and Vancouver Island. I am also a settler living and working on the unceded, ancestral, and traditional ’āina of Hawai’i. I trace my family’s roots to western Europe but recognize that I reside on a territory recognized by Indigenous Hawaiians as their ancestral grandmother, Papahānaumoku, that has been treated with care by generations of Indigenous Hawaiians. I am grateful to be on this land and seek to support her and its communities with patience and collaboration."
+  },
+  {
+    "objectID": "about.html#fresh-air",
+    "href": "about.html#fresh-air",
+    "title": "about",
+    "section": "fresh air Earth americas",
+    "text": "fresh air Earth americas\nHard work can be draining, so I value the time I can get outdoors. I am privileged to live by the ocean and travel to other beautiful places for work. I try to make the most of this by finding quiet time to myself, whether it be on a surfboard or on a walk with my pup. When I can’t hear the birds, that’s when I know it’s time to hike somewhere and sleep outside for a few days."
   },
   {
     "objectID": "about.html#intro-to-science",
@@ -96,68 +68,5 @@
     "title": "about",
     "section": "intro to science Microscope",
     "text": "intro to science Microscope\nLike most people, my path to present day is nonlinear. It started off with a childhood in the woods and backyard, a yearning for sunshine and warmth, and a few dedicated teachers at Santa Barbara City College. During my CC days, I had my first research experience at UC Santa Barbara studying raccoon parasites with at the time, graduate student Sara Weinstein. I loved the process of science and wanted more, and was awarded an NSF REU at the Marine Biological Laboratory in Woods Hole. I worked with Dr. Allen Mensinger on toadfish bioacoustics. At the time, I had no idea fish vocalized! I spent several additional summmers studying toadfish neurophysiology and was hooked to physiology.\nI wanted to merge my scientific background with my desire to learn and conserve vulnerable systems. That brings me to today, my final year or so as a PhD candidate at UC Santa Barbara in Dr. Erika Eliasons’ lab."
-  },
-  {
-    "objectID": "about.html#the-hobby",
-    "href": "about.html#the-hobby",
-    "title": "about",
-    "section": "Person hiking the hobby",
-    "text": "Person hiking the hobby\nLike most people, my path to present day is nonlinear. It started off with a childhood in the woods and backyard, a yearning for sunshine and warmth, and a few dedicated teachers at Santa Barbara City College. I had my first research experience at UC Santa Barbara studying raccoon parasites with at the time, graduate student Sara Weinstein,"
-  },
-  {
-    "objectID": "about.html#section",
-    "href": "about.html#section",
-    "title": "about",
-    "section": "Tree Sun Microscope",
-    "text": "Tree Sun Microscope\nLike most people, my path to present day is nonlinear. It started off with a childhood in the woods and backyard, a yearning for sunshine and warmth, and a few dedicated teachers at Santa Barbara City College. During my CC days, I had my first research experience at UC Santa Barbara studying raccoon parasites with at the time, graduate student Sara Weinstein. I loved the process of science and wanted more, and was awarded an NSF REU at the Marine Biological Laboratory in Woods Hole. I worked with Dr. Allen Mensinger on toadfish bioacoustics. At the time, I had no idea fish vocalized! I spent several additional summmers studying toadfish neurophysiology and was hooked to physiology. I wanted to merge my scientific background with my desire to learn and conserve vulnerable systems. That brings me to today, my final year or so as a PhD candidate at UC Santa Barbara in Erika Eliaons’s lab."
-  },
-  {
-    "objectID": "about.html#my-intro-to-science",
-    "href": "about.html#my-intro-to-science",
-    "title": "about",
-    "section": "my intro to science Tree Sun Microscope",
-    "text": "my intro to science Tree Sun Microscope\nLike most people, my path to present day is nonlinear. It started off with a childhood in the woods and backyard, a yearning for sunshine and warmth, and a few dedicated teachers at Santa Barbara City College. During my CC days, I had my first research experience at UC Santa Barbara studying raccoon parasites with at the time, graduate student Sara Weinstein. I loved the process of science and wanted more, and was awarded an NSF REU at the Marine Biological Laboratory in Woods Hole. I worked with Dr. Allen Mensinger on toadfish bioacoustics. At the time, I had no idea fish vocalized! I spent several additional summmers studying toadfish neurophysiology and was hooked to physiology.\nThat brings me to today, my final year or so at UC Santa Barbara in Erika Eliaosn’s lab."
-  },
-  {
-    "objectID": "land.and.sea.html#beauty",
-    "href": "land.and.sea.html#beauty",
-    "title": "land and sea",
-    "section": "Beauty",
-    "text": "Beauty\nI am no professional, but I try to capture some beauty that I see.\n\nFish\n\n\n\n\n\nAnemonefish in Moorea, French Polynesia.\n\n\n\n\n\nBlacktip reef shark in Moorea, French Polynesia.\n\n\n\n\n\nKokanee salmon in interior British Columbia, Canada."
-  },
-  {
-    "objectID": "land.and.sea.html#moments",
-    "href": "land.and.sea.html#moments",
-    "title": "land and sea",
-    "section": "Moments",
-    "text": "Moments\nI am no professional, but I try to capture some beauty that I see.\n\nFish\n\n\n\n\n\nAnemonefish in Moorea, French Polynesia.\n\n\n\n\n\nBlacktip reef shark in Moorea, French Polynesia.\n\n\n\n\n\nKokanee salmon in interior British Columbia, Canada."
-  },
-  {
-    "objectID": "phd-metrics.html",
-    "href": "phd-metrics.html",
-    "title": "PhD metrics",
-    "section": "",
-    "text": "world <- ne_countries(scale = \"medium\", returnclass = \"sf\")\ncollabs <- read.csv(here(\"phd-metrics\", \"map\", \"collabs-coordinates.csv\"))\n\ncollabs_maps <- ggplot() +\n    geom_sf(data = world, color = \"black\", fill = \"snow1\")+\n  coord_sf(xlim= c(-180, 180), ylim = c(-50, 80))+\n    geom_point(data = collabs, aes(y = lat, x = long, size = Count), color = \"#c7949b\", alpha = .6)+\n  #  ggtitle(\"PhD Collaborations\")+\n  scale_size(range=c(3, 5), breaks=c(1, 5, 10, 15))+\n    theme_map()+\n    theme(plot.title = element_text(colour = \"snow1\", size =18),\n          legend.background = element_rect(fill=\"transparent\"),\n          legend.title = element_text(color = \"snow1\"),\n          legend.text = element_text(color = \"snow1\"),\n          legend.key = element_rect(fill = \"transparent\"))\n\nggsave(here(\"phd-metrics\", \"map\", \"map_collabs.png\"), height = 8, width = 8)"
-  },
-  {
-    "objectID": "phd-metrics.html#presentations",
-    "href": "phd-metrics.html#presentations",
-    "title": "PhD metrics",
-    "section": "Presentations",
-    "text": "Presentations\n\npres <- read.csv(here(\"phd-metrics\", \"plots\", \"presentations.csv\"))\n\npres_count <- pres %>%\n  dplyr::count(presentation_type)%>%\n  filter(n<100)\n\nx<-ggplot(pres_count, aes(x = presentation_type, y = n))+\n  geom_col(fill = \"#c7949b\", width = 0.6)+\n  labs(y = \"Number\", x = \"\\nPresentation type\")+\n  #ggtitle(\"Presentations throughout PhD\")+\n  scale_y_continuous(breaks = c(0, 5, 10))+\n  scale_x_discrete(labels = function(x) str_wrap(x, width = 10))+\n  theme(\n  panel.background = element_rect(fill = \"transparent\",\n                                  colour = NA_character_), # necessary to avoid drawing panel outline\n  panel.grid.major = element_blank(), # get rid of major grid\n  panel.grid.minor = element_blank(), # get rid of minor grid\n  plot.background = element_rect(fill = \"transparent\",\n                                 colour = NA_character_), # necessary to avoid drawing plot outline\n  legend.background = element_rect(fill = \"transparent\"),\n  legend.box.background = element_rect(fill = \"transparent\"),\n  legend.key = element_rect(fill = \"transparent\"))+\n  theme(text=element_text(size=20), #change font size of all text\n        axis.text=element_text(size=20), #change font size of axis text\n        axis.title=element_text(size=20, color = \"snow1\"), #change font size of axis titles\n        plot.title=element_text(size=20, color = \"snow1\"), #change font size of plot title\n        legend.text=element_text(size=20), #change font size of legend text\n        legend.title=element_text(size=20), #change font size of legend title   \n        axis.text.x=element_text(colour=\"snow1\"),\n        axis.text.y=element_text(colour=\"snow1\"),\n        axis.ticks = element_blank()  )\nggsave(here(\"phd-metrics\", \"plots\", \"presentations.png\"), width = 12, height = 10)"
-  },
-  {
-    "objectID": "community.html#dissemination",
-    "href": "community.html#dissemination",
-    "title": "community",
-    "section": "dissemination",
-    "text": "dissemination\nWhat is knowledge if it isn’t shared? Not only do I care about sharing my scientific findings, but it is important to share my experiences. Below are some ways I’ve shared my scientific journey, perspective, and science throughout my PhD."
-  },
-  {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "community",
-    "section": "",
-    "text": "collaborations\nI’ve been fortunate to have worked with brilliant minds from across the globe. I value each and everyone’s perspective that has been influential to my career and personal development.\n\n\n\n\n\n\n\ndissemination\nWhat is knowledge if it isn’t shared? Not only do I care about sharing my scientific findings, but it is important to share my experiences. Below are some ways I’ve shared my scientific journey, perspective, and science throughout my PhD.\n\n\n\n\n\n\n\n\n\nThe metrics above are inspired by Phoebe Racine."
   }
 ]

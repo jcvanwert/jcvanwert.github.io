@@ -11,8 +11,6 @@ about:
       href: https://scholar.google.com/citations?user=R_tz8jMAAAAJ&hl=en
     - text: LinkedIn
       href: https://www.linkedin.com/in/jacey-van-wert-a5b43b1bb/
-    - text: Twitter
-      href: https://twitter.com/jacey_van_wert
     - text: GitHub
       href: https://github.com/jcvanwert
     - text: Email

@@ -5,7 +5,7 @@ subtitle: I study how fish survive in their surroundings to better understand th
 
 ## Pacific Salmon
 
-In short, I assess the vulnerability of various species of Pacific salmon to changing river conditions (warm waters, various flow rates) to protect and conserve this threatened species. In collaboration with various stakeholders, I use a variety of techniques including blood physiology, enzyme and metabolite metrics, histology, respirometry, and tagging and tracking.
+In short, I assess the vulnerability of various species of Pacific salmon to changing river conditions (warm waters, various flow rates) to protect and conserve this threatened taxa. In collaboration with various stakeholders, I use a variety of techniques including blood physiology, enzyme and metabolite metrics, histology, respirometry, and tagging and tracking.
 
 ```{r}
 #| echo: false

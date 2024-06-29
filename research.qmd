@@ -29,7 +29,7 @@ Observing fish on the forereef in Moorea, French Polynesia.
 
 ## Fisheries
 
-In summer 2023, I was awarded funding by NSF to work with [NOAA Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) to assess the effect of effort displacement due to economic exclusion zones on the by-catch of protected species. Leveraging machine learning, we are working with longterm fisheries data to investigate these impacts.
+In summer 2023, I was awarded funding by NSF to work with [NOAA Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) (PIFSC) to assess the effect of effort displacement due to economic exclusion zones on the by-catch of protected species. Leveraging machine learning, we are working with longterm fisheries data to investigate these impacts. My postdoctoral position works with \[Dr. Zach Siders\](https://www.zachsiders.com/) at the University of Florida in collaboration with PIFSC to continue this work.
 
 ```{r}
 #| echo: false

@@ -28,8 +28,6 @@ website:
     right: 
       - icon: github
         href: https://github.com/jcvanwert
-      - icon: twitter
-        href: https://twitter.com/jacey_van_wert
       #  - icon: researchgate
       #    href: https://www.researchgate.net/profile/Jacey-Van-Wert?ev=hdr_xprf
       # - icon: google-scholar

@@ -24,3 +24,14 @@ knitr::include_graphics("phd-metrics/plots/presentations.png")
 ```
 
 The metrics above are inspired by [Phoebe Racine](https://www.phoeberacine.com/).
+
+#### media
+
+Check out [Reel West Coast's](https://www.youtube.com/@ReelWestCoast) video featuring our science on best handling practices for Chinook salmon.
+
+```{<iframe width="560" height="315" src="https://www.youtube.com/embed/V_-nGLWNPQw?si=HrXrqfcPGaXJUBtz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}
+  
+```
+
+\
+\

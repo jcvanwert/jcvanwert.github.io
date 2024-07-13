@@ -17,7 +17,7 @@ website:
       - about.qmd
       - research.qmd
       - community.qmd
-      - href: cv/vanwert_cv.pdf
+      - href: docs/cv/vanwert_cv.pdf
         text: cv
 
       

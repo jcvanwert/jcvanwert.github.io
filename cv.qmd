@@ -62,7 +62,7 @@ title: "cv"
 
 <!-- -->
 
-9.  Rempel H., Siebert A, **Van Wert JC**, Bodwin KN, Ruttenberg BI. (2022). Feces consumption by nominally herbivorous fishes in the Caribbean: an underappreciated source of nutrients? *Coral Reefs*.
+9.  Rempel H, Siebert A, **Van Wert JC**, Bodwin KN, Ruttenberg BI. (2022). Feces consumption by nominally herbivorous fishes in the Caribbean: an underappreciated source of nutrients? *Coral Reefs*.
 
 # Conference Presentations
 
@@ -106,43 +106,43 @@ title: "cv"
 
     -   Measured the metabolic recovery of ocean-phase Chinook salmon after angling using novel boatside respirometry.
 
-    -   Collaborators: S Hinch, Sports Fishing Institute of British Columbia
+    -   Collaborators: E Eliason, S Hinch, Sports Fishing Institute of British Columbia
 
 -   NOAA Pacific Islands Fisheries Science Center -- Honolulu, HI (2023)
 
     -   Assessed the effect of economic exclusion zones on bycatch of protected species using random forest models.
 
-    -   Collaborators: R. Ahrens, T.T. Jones, Z. Siders
+    -   Collaborators: R Ahrens, TT Jones, Z Siders
 
 -   University of British Columbia -- Kootenays, BC, Canada (2021-2022)
 
     -   Measured the thermal tolerance and metabolic performance of Kokanee salmon throughout BC, Canada using streamside respirometry.
-    -   Collaborators: S. Hinch, Freshwater Fisheries Society
+    -   Collaborators: E Eliason, S Hinch, Freshwater Fisheries Society
 
 -   Simon Fraser University -- Fraser River, BC, Canada (2022)
 
     -   Deployed radiotags on Pacific Salmon along the Fraser River.
-    -   Collaborators: D. Patterson, K. Birnie-Gauvin, Department of Fisheries and Oceans Canada
+    -   Collaborators: E Eliason, D Patterson, K Birnie-Gauvin, Department of Fisheries and Oceans Canada
 
 -   Carleton University -- Ontario, Canada (2021)
 
     -   Measured cardiac performance in migrating Pacific salmon.
-    -   Collaborators: A. Ekström, S. Cooke, W. Twardek
+    -   Collaborators: E Eliason, A Ekström, S Cooke, W Twardek
 
 -   University of British Columbia -- Cultus Lake Laboratory, BC, Canada (2019)
 
     -   Assessed the function of the heart during warming in coho salmon.
-    -   Collaborators: A. Ekström, D. Patterson, S. Hinch, S. Cooke, M. Gilbert
+    -   Collaborators: E Eliason, A Ekström, D Patterson, S Hinch, S Cooke, M Gilbert
 
 -   University of California -- Mo'orea, French Polynesia (2017, 2019)
 
     -   Investigated fecal nutrient input across functional groups of coral reef fish.
-    -   Collaborators: N. Schiettekatte, D. Burkepile
+    -   Collaborators: N Schiettekatte, D Burkepile, E Eliason
 
 -   Marine Biological Laboratory of Woods Hole -- MA, USA (2015 -- 2018)
 
     -   Investigated fish sensory systems and behavior using neuroscience and bioacoustics.
-    -   Collaborators: A. Mensinger
+    -   Collaborators: A Mensinger
 
 # Awards and Honors
 

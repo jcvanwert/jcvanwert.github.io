@@ -1,0 +1,303 @@
+---
+title: "cv"
+---
+
+# Education
+
+-   **Doctor of Philosophy in Ecology, Evolution, and Marine Biology**
+
+    -   University of California, Santa Barbara (2018 -- June 2024)
+
+-   **Master of Arts, Ecology, Evolution and Marine Biology**
+
+    -   University of California, Santa Barbara (2023)
+
+-   **Bachelor of Arts, Integrative Biology**
+
+    -   University of California, Berkeley, High Distinction, GPA: 3.94 (2017)
+
+-   **Associate of Arts (2 of 4 degrees), Chemistry, Biology with Highest Honors**
+
+    -   Santa Barbara City College (2015)
+
+# Publications
+
+19.  Oyinlola MA, Khorsandi M, Mayer N, Butler N, Van Wert JC, Eliason EJ, Arsenault R, Brauner CJ, Hinch SG, St-Hilaire A. Evaluating the effectiveness of the current Nechako water management program on Chinook salmon under climate change scenarios. *Clim. Change*. In review.
+
+```{=html}
+<!-- -->
+```
+18.  Van Wert JC, Ekström AE, Gilbert MJH, Hendriks B, Cooke SJ, Patterson DA, Hinch GS, Eliason EJ. (2024). Coronary circulation enhances the aerobic performance of wild Pacific salmon. *J Exper Biol*.
+
+```{=html}
+<!-- -->
+```
+17.  Van Wert JC, Birnie-Gauvin K, Landfield K, Gallagher J, Burkepile DE, Eliason EJ. (2024). Despite plasticity, heatwaves are costly for a coral reef fish. *Sci Rep*.
+
+```{=html}
+<!-- -->
+```
+16.  Ekström AE, Hendriks B, Van Wert JC, Gilbert M, Farrell AP, Cooke SJ, Patterson DA, Hinch SG, Eliason EJ. (2023). Impairing cardiac oxygen supply in swimming coho salmon compromises their heart function and tolerance to acute warming. *Sci Rep*.
+
+```{=html}
+<!-- -->
+```
+15.  Schwieterman GD, Hardison EA, Cox G, Van Wert JC, Birnie-Gauvin K, Eliason EJ. (2023). Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians). *CBPA*.
+
+```{=html}
+<!-- -->
+```
+14.  Van Wert JC, Hendriks B, Ekström AE, Patterson DA, Cooke SJ, Hinch GS, Eliason EJ. Population variability in thermal performance of pre-spawning adult Chinook salmon. *Cons Phys*.
+
+```{=html}
+<!-- -->
+```
+13.  Eliason EJ, Muir CA, Van Wert JC, Ekström AT. Thermal sensitivity of cardiac performance: Implications for sustainable fisheries. *Encyclopedia of Fish Physiology*.
+
+```{=html}
+<!-- -->
+```
+12. Guerra AS, Van Wert JC, Haupt A, White T, Lecchini D, Eliason E, McCauley D, Caselle J. (2023). Diverse intraspecific differences between a shoaling and solitary coral reef fish. *Ecol and Evol*.
+
+```{=html}
+<!-- -->
+```
+11. Rogers LS, Van Wert JC, Mensinger AF. (2022). Utricular sensitivity to multimodal inputs in the toadfish, *Opsanus tau*. *J Neurophysiol*.
+
+```{=html}
+<!-- -->
+```
+10.  Eliason EJ, Van Wert JC, Schwieterman GD. (2022). Fish Physiology 39A: Conservation Physiology for the Anthropocene -- A Systems Approach. Chapter 4: Applied Aspects of the Cardiorespiratory System.
+
+```{=html}
+<!-- -->
+```
+9.  Rempel H., Siebert A, Van Wert JC, Bodwin KN, Ruttenberg BI. (2022). Feces consumption by nominally herbivorous fishes in the Caribbean: an underappreciated source of nutrients? *Coral Reefs*.
+
+# Conference Presentations
+
+## Oral Presentations
+
+-    Metabolic recovery of marine Chinook salmon from catch-and-release fishing.
+    Van Wert JC, Hendriks B, Johnston S, Zinn K, Hinch SG, Eliason EJ. International Congress on the Biology of Fish. Ann Arbor, Michigan. June 2024.
+
+-   Heart function and pathology are linked to the migration success of Pacific salmon.
+    Van Wert JC, Birnie-Gauvin K, Robinson KA, Patterson DA, Eliason EJ. Canadian Society of Zoologists. William S. Hoar Award Finalist. Moncton, Canada. May 2024.
+
+-   Gotta catch \'em all: A Guide to best practices in the salmon fishery.
+    Van Wert JC, Hendriks BJ, Zinn K, Johnston S, Patterson DA, Eliason EJ, Hinch SG. Ecology, Evolution and Marine Biology Graduate Student Symposium. Santa Barbara, CA. Feb. 2024.
+
+-   Metabolic recovery of catch and released Chinook salmon.
+    Van Wert JC, Hendriks BJ, Zinn K, Johnston S, Patterson DA, Eliason EJ, Hinch SG. Salmonids Migrations, Ecology and Management 18th Annual Research Symposium. Vancouver, Canada. Feb. 2024.
+
+-   For some, a good run while it lasted: variation in thermal tolerance among Chinook salmon.
+    Van Wert JC, Hendriks BJ, Ekström A, Patterson DA, Cooke SJ, Hinch SG, Eliason EJ. Ecology, Evolution and Marine Biology Graduate Student Symposium. Virtual. Feb. 2021.
+
+-   Population-specific variability in the thermal performance of Fraser River Chinook salmon.
+    Van Wert JC, Hendriks BJ, Ekström A, Patterson DA, Cooke SJ, Hinch SG, Eliason EJ. Society for Integrative and Comparative Biology Annual Conference. Virtual. Jan. 2021.
+
+-   Population-specific vulnerability to warming temperatures in Fraser River Chinook Salmon.
+    Van Wert JC, Hendriks BJ, Ekström A, Patterson DA, Cooke SJ, Hinch SG, Eliason EJ. The American Fisheries Society Annual Conference. Best Student Presentation Finalist. Virtual. Sep. 2020.
+
+-   The effect of self-generated movement on lateral line sensitivity in the toadfish, *Opsanus tau*.
+    Van Wert JC, Rogers LS, Mensinger AF. Society for Integrative and Comparative Biology Annual Conference. San Francisco, CA. Jan. 2018.
+
+-   Metabolic responses of photosynthetic sea slugs to a changing environment.
+    Van Wert JC. University of California, Berkeley Research Symposium. Berkeley, CA. Dec. 2016.
+
+-   The effects of temperature, intraspecific, and environmental noise on oyster toadfish (*Opsanus tau*) mating calls.
+    Van Wert JC, Mensinger AF. Marine Biological Laboratory Undergraduate Symposium. Woods Hole, MA. Aug. 2015.
+
+-   Characterizing the parasite community in local raccoons (*Procyon lotor*).
+    Van Wert JC, Weinstein SB, Kuris AM. University of California, Santa Barbara Undergraduate Summer Symposium. Santa Barbara, CA. Aug. 2014.
+
+## Poster Presentations
+
+-   Jamming avoidance response in oyster toadfish, *Opsanus tau*. Society for Integrative and Comparative Biology Annual Conference, New Orleans, LA, Jan. 2017.
+
+-   Chronically implanted micromanipulator for recording neural activity from free-swimming fish. Society for Integrative and Comparative Biology Annual Conference, New Orleans, LA, Jan. 2017.
+
+```{=html}
+<!-- -->
+```
+-   The effects of temperature, intraspecific, and environmental noise on oyster toadfish (*Opsanus tau*) mating calls. Van Wert JC, Mensinger AF. Society for Integrative and Comparative Biology Annual Conference. Portland, OR. Jan. 2016.
+
+# Collaborations and Research Expeditions
+
+-   University of British Columbia -- Bamfield, Vancouver Island, BC, Canada (2023): Measured the metabolic recovery of ocean-phase Chinook salmon after angling using novel boatside respirometry.
+
+-   NOAA Pacific Islands Fisheries Science Center -- Honolulu, HI (2023): Assessed the effect of economic exclusion zones on bycatch of protected species using random forest models.
+
+-   University of British Columbia -- Kootenays, BC, Canada (2021-2022)
+    - Measured the thermal tolerance and metabolic performance of Kokanee salmon throughout BC, Canada using streamside respirometry.
+    - Collaborators: S. Hinch, Freshwater Fisheries Society.
+
+-   Simon Fraser University -- Fraser River, BC, Canada (2022)
+    - Deployed radiotags on Pacific Salmon along the Fraser River.
+    - Collaborators: D. Patterson, K. Birnie-Gauvin, Department of Fisheries and Oceans Canada.
+
+-   Carleton University -- Ontario, Canada (2021)
+    - Measured cardiac performance in migrating Pacific salmon.
+    - Collaborators: A. Ekström, S. Cooke, W. Twardek.
+
+-   University of British Columbia -- Cultus Lake Laboratory, BC, Canada (2019)
+    - Assessed the function of the heart during warming in coho salmon.
+    - Collaborators: A. Ekström, D. Patterson, S. Hinch, S. Cooke, M. Gilbert.
+
+-   University of California -- Mo\'orea, French Polynesia (2017, 2019)
+    - Investigated fecal nutrient input across functional groups of coral reef fish.
+    - Collaborators: N. Schiettekatte, D. Burkepile.
+
+-   Marine Biological Laboratory of Woods Hole -- MA, USA (2015 -- 2018)
+    - Investigated fish sensory systems and behavior using neuroscience and bioacoustics.
+    - Collaborators: A. Mensinger.
+
+# Awards and Honors
+
+-   Best Student Oral Presentation, International Congress on the Biology of Fish (2024)
+
+-   Canadian Society of Zoology Travel Award (2024)
+
+-   Annabelle B. Bush Memorial Scholar (2023)
+
+-   P.E.O. Scholar Award (2023)
+
+-   Folds of Honor Scholarship (2022)
+
+-   Umihiko Hoshijima Graduate Award for Ocean Conservation (2022)
+
+-   American Fisheries Society J. Frances Allen Scholarship Award (2022)
+
+-   American Fisheries Society Eugene Maughan Graduate Student Scholarship (2022)
+
+-   SICB Charlotte Magnum Student Support Award (2021)
+
+-   SICB Public Affairs Committee Student Intern (2021)
+
+-   Finalist in American Fisheries Society Best Student Presentation Competition (2021)
+
+-   NSF REU at the Marine Biological Laboratory, Woods Hole (2015)
+
+-   Santa Barbara City College Highest Honors (2015)
+
+-   Biological Sciences Outstanding Student of the Year, Santa Barbara City College (2015)
+
+-   Center for Science and Engineering Partnerships Summer Internship, UCSB (2014)
+
+-   Plant Biology Student of the Year, Santa Barbara City College (2014)
+
+# Fellowships and Grants
+
+**Total Funding: \$267,450**
+
+\- NSF INTERN Supplemental Funding: \$38,000 (2023)
+
+\- Individualized Professional Skills Grant, UCSB: \$1,000 (2023)
+
+\- Schmidt Mentorship Fellowship: \$9,000 (2023)
+
+\- Society of Experimental Biology Company of Biologists Travel Grant: \$1,000 (2022)
+
+\- Graduate Student Association Travel Grant, UCSB: \$200 (2020, 2022)
+
+\- Technology Grant: \$1,200 (2022)
+
+\- Individualized Professional Skills Grant, UCSB: \$800 (2019)
+
+\- Nejat B. Ezal Fellowship: \$2,500 (2019)
+
+\- NSF Graduate Research Fellowship: \$138,000 (2018)
+
+\- UCSB Chancellor's Fellowship: \$72,000 (2018)
+
+\- Biology Travel Grant, NSF: \$1,000 (2017)
+
+\- REU Student-Mentor Travel Scholarship, NSF: \$1,500 (2016)
+
+\- William Olivarius Scholarship, Santa Barbara City College: \$1,000 (2015)
+
+\- Joe W. Dobbs Scholarship, Santa Barbara City College: \$250 (2014)
+
+# Invited talks
+
+-   Monthly Meeting, P.E.O. (2023)
+
+-   Neural Systems and Behavior, University of Minnesota, Duluth (2023)
+
+-   Kokanee GeneSolve Annual Meeting, University of British Columbia (2022)
+
+-   Pacific Salmon Ecology and Conservation Lab, University of British Columbia (2021)
+
+-   Diving Club, Santa Barbara City College (2021)
+
+-   SciTrek Eliason Lab Research, UCSB (2020)
+
+-   Animal Physiology EEMB 157B, Digestion, UCSB (2020)
+
+# Teaching and Mentorship
+
+-   Teaching Assistant, Transfer Seminar Course, UCSB (2021)
+
+-   Marine Science Naturalist, Camp SEA Lab, Monterey, CA (2019)
+
+# Community Engagement
+
+-   AFS J. Frances Allen Award Committee Chair (2023)
+
+-   Science Advisor for Whale Tale Grant, San Jose, CA (2020 - 2024)
+
+-   Graduate Student Panel, UCSB Aquatic Biology
+
+-   School for Scientific Thought Lab Tour (2023)
+
+-   AFS Hutton Pen Pal (2022)
+
+-   Point Person for UCSB EEMB Undergraduate Open House (2022)
+
+-   Invited Student Speaker, EEMB 502 Teaching Techniques (2022)
+
+-   Science as a Career Outreach Project Experiment (SCOPE), Ventura, CA (5 high school visits) (2020 - Present)
+
+-   Science-Line Scientist (2019 - 2022)
+
+-   Invited Student Speaker, EEMB 508 Seminar (2021)
+
+-   SACNAS Statement of Purpose Feedback Session (2021)
+
+-   American Fisheries Society Graduate Student Panel Speaker (2021)
+
+-   Invited Graduate Student Speaker (SBCC Biology Club, UCSB Freshman Seminar, University of Minnesota Duluth) (2019)
+
+-   Ocean Day Volunteer, Santa Barbara, CA (2019)
+
+-   Puna Reo Elementary Site Visit Volunteer, Mo\'orea, French Polynesia (2019)
+
+-   Family Ultimate Science Exploration (FUSE) Volunteer (2017)
+
+-   California Coastal Commission Education Intern (2017)
+
+-   Ocean Society of UC Berkeley, Secretary (2017)
+
+# Certifications
+
+-   CPR and First Aid
+
+-   Wilderness First Aid
+
+-   California Boater's License
+
+-   AAUS SCUBA
+
+-   NAUI Search and Rescue
+
+-   PADI Advanced Open Water, 70 logged dives
+
+# Science Communication
+
+-   "The marvel-ous world of science." 2022. [Link](https://www.newswise.com/articles/the-marvel-ous-world-of-science)
+
+-   "Who's dam busy?" 2021. [Link](https://sicb.org/whos-dam-busy/)
+
+-   "Subtle changes beneath the terrain: An interview with Dr. Morgan Kelly." 2021. [Link](https://integrativeandcomparativebiology.wordpress.com/sicb-icb-mangum-student-volunteers-sci-comm/)
+
+-   "Elephant seals: A conservation success story in your backyard." 2018. [Link](https://thecacoast.tumblr.com/post/157913187162/elephant-seals-a-conservation-success-story-in)

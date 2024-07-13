@@ -17,8 +17,7 @@ website:
       - about.qmd
       - research.qmd
       - community.qmd
-      - href: ~/Documents/Github_repositories/jcvanwert.github.io/docs/cv/vanwert_cv.pdf 
-        text: cv
+      - cv.qmd
 
       
   page-footer: 

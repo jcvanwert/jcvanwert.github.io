@@ -17,7 +17,7 @@ website:
       - about.qmd
       - research.qmd
       - community.qmd
-      - href: cv.qmd
+      - cv.qmd
 
       
   page-footer: 

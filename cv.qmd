@@ -54,7 +54,7 @@ title: "cv"
 
 <!-- -->
 
-11. Rogers LS, **Van Wert JC**, Mensinger AF. (2022). Utricular sensitivity to multimodal inputs in the toadfish, *Opsanus tau*. *J Neurophysiol*.
+11. Schiettekatte N, Casey JM, Brandl SJ, Mercière A, Degregori S, Burkepile D, **Van Wert JC**, Villéger S, Parravicini V. (2023). The role of fish feces for nutrient recycling on coral reefs. *Oikos.*
 
 <!-- -->
 
@@ -62,7 +62,7 @@ title: "cv"
 
 <!-- -->
 
-9.  Rempel H, Siebert A, **Van Wert JC**, Bodwin KN, Ruttenberg BI. (2022). Feces consumption by nominally herbivorous fishes in the Caribbean: an underappreciated source of nutrients? *Coral Reefs*.
+9.  Rogers LJ, **Van Wert JC**, Mensinger AF. (2022). Utricular sensitivity to multimodal inputs in the toadfish, *Opsanus tau*. *Journal of Neurophysiology.*
 
 <!-- -->
 

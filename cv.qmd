@@ -22,6 +22,10 @@ title: "cv"
 
 # Book chapters & Reports
 
+3.  **Van Wert JC**, Crigler E, Swimmer Y, Reynolds E, Jones TT, Ahrens RNM, Siders ZA. (2025). Examining the impact of lunar phase and bycatch mitigation measures on albatross interactions in Hawaii's long-line fisheries. Information Paper to the 21st regular session of the Scientific Committee. WCPFC-SC21-EB-IP10. Western and Central Pacific Fisheries Commission.
+
+<!-- -->
+
 2.  Eliason EJ, Muir CA, **Van Wert JC**, Esktröm AT. (2023). Thermal sensitivity of cardiac performance: Implications for sustainable fisheries. *Encyclopedia of Fish Physiology*.
 
 <!-- -->
@@ -30,7 +34,11 @@ title: "cv"
 
 # Publications
 
-18. Pleizer N, Birnie-Gauvin K, Dressler T, Hardison EA, Kraskura K, Schwieterman G, Teffer AK, **Van Wert JC**, Blewett TA, Jeffries KM, Eliason EJ. Conservation physiology of freshwater fishes: pressing questions and implications for management. *Cons. Phys*. In review.
+19. Pleizer N, Birnie-Gauvin K, Dressler T, Hardison EA, Kraskura K, Schwieterman G, Teffer AK, **Van Wert JC**, Blewett TA, Jeffries KM, Eliason EJ. (2025). Conservation physiology of freshwater fishes: pressing questions and implications for management. *Cons. Phys*. In press.
+
+<!-- -->
+
+18. **Van Wert JC**, Siders ZA, Jones TT, Ahrens RNM. (2025). Bluewater time-area closures must consider multispecies impacts: an example with Hawaii's pelagic longline fishery. ICES Journal of Marine Science.
 
 <!-- -->
 
@@ -104,9 +112,9 @@ title: "cv"
 
 ## Oral Presentations
 
--   *Recovery dynamics of marine Chinook and coho salmon from capture-and-release fishing guided by sports anglers.* **Van Wert JC**, Hendriks B, Johnston S, Zinn K, Johnston Q, Hinch SG, Eliason EJ. American Fisheries Society Washington BC Chapter. Vancouver, Canada. Mar. 2025.
+-   Recovery dynamics of marine Chinook and coho salmon from capture-and-release fishing guided by sports anglers. **Van Wert JC**, Hendriks B, Johnston S, Zinn K, Johnston Q, Hinch SG, Eliason EJ. American Fisheries Society Washington BC Chapter. Vancouver, Canada. Mar. 2025.
 
--   Metabolic recovery of capture and released coho and Chinook salmon.**Van Wert JC**, Johnston Q, Hendriks B, Johnston S, Zinn K, Hinch SG, Eliason EJ. Salmonids Migrations, Ecology and Management 19^th^ Annual Research Symposium. Vancouver, Canada. Feb. 2025.
+-   Metabolic recovery of capture and released coho and Chinook salmon. **Van Wert JC**, Johnston Q, Hendriks B, Johnston S, Zinn K, Hinch SG, Eliason EJ. Salmonids Migrations, Ecology and Management 19^th^ Annual Research Symposium. Vancouver, Canada. Feb. 2025.
 
 -   Evaluation of the Southern Exclusion Zone in Hawai'i's Longline Fishery. **Van Wert JC**, Ahrens R, Jones TT, Siders Z. American Fisheries Society Annual Conference. Honolulu, HI. Sep. 2024.
 
@@ -142,9 +150,9 @@ title: "cv"
 
 # Collaborations and Research Expeditions
 
--   University of British Columbia -- Bamfield, Vancouver Island, BC, Canada (2023)
+-   University of British Columbia -- Bamfield, Vancouver Island, BC, Canada (2023-2025)
 
-    -   Measured the metabolic recovery of ocean-phase Chinook salmon after angling using novel boatside respirometry.
+    -   Measured the metabolic recovery of ocean-phase Chinook and coho salmon after angling using novel boatside respirometry to inform best practices for catch and release fishing.
 
     -   Collaborators: E Eliason, S Hinch, Sports Fishing Institute of British Columbia
 

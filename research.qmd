@@ -5,7 +5,7 @@ subtitle: I study how marine species survive in their surroundings to better und
 
 ## Fisheries
 
-In summer 2023, I was awarded funding by NSF to work with [NOAA Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) (PIFSC) to assess the effect of effort displacement due to economic exclusion zones on the incidental catch of protected species. Leveraging machine learning, we are working with longterm fisheries data to investigate these impacts. My postdoctoral position with [Dr. Zach Siders](https://www.zachsiders.com/) at the University of Florida is in collaboration with PIFSC to continue assessing legislative impacts on fisheries interactions with nontarget species.
+In summer 2023, I was awarded funding by NSF to work with [NOAA Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) (PIFSC) to assess the effect of effort displacement due to economic exclusion zones on the incidental catch of protected species. Leveraging machine learning, we are working with longterm fisheries data to investigate these impacts. My postdoctoral position with [Dr. Zach Siders](https://www.zachsiders.com/) at the University of Florida is in collaboration with PIFSC to asess legislative impacts and mitigation measures on longline fisheries interactions with nontarget species.
 
 ```{r}
 #| echo: false

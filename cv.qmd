@@ -22,6 +22,10 @@ title: "cv"
 
 # Book chapters & Reports
 
+4.  **Van Wert JC**, Siders ZA, Swimmer Y, Crigler E, Ahrens RNM, Jones TT. (2026). Identifying risk factors in leatherback bycatch in Hawaii's deep-set longline fishery. Working paper to the 21st regular session of the Scientific Committee. WCPFC-SC22-2026-EB-WP08. Western and Central Pacific Fisheries Commission.
+
+<!-- -->
+
 3.  **Van Wert JC**, Crigler E, Swimmer Y, Reynolds E, Jones TT, Ahrens RNM, Siders ZA. (2025). Examining the impact of lunar phase and bycatch mitigation measures on albatross interactions in Hawaii's long-line fisheries. Information Paper to the 21st regular session of the Scientific Committee. WCPFC-SC21-EB-IP10. Western and Central Pacific Fisheries Commission.
 
 <!-- -->
@@ -33,6 +37,22 @@ title: "cv"
 1.  Eliason EJ, **Van Wert JC**, Schwieterman GD. (2022). Fish Physiology 39A: Conservation Physiology for the Anthropocene -- A Systems Approach. Chapter 4: Applied Aspects of the Cardiorespiratory System.
 
 # Publications
+
+23. **Van Wert JC**, Hendriks B, Johnston SD, Zinn KR, Johnston QV, Weber LA, Patterson DA, Hinch SG, Eliason EJ. Onboard respirometry in a marine recreational fishery reveals predictors of post-capture recovery in adult coho salmon. *CJFAS*. In press.
+
+<!-- -->
+
+22. Birnie-Gauvin K, Robinson KA, Byrnes E, **Van Wert JC**, Venditti J, Cooke SJ, Eliason EJ, Patterson DA. (2026). Quantifying burst swimming in sockeye salmon during their 1100km upstream migration. *Cons. Phys.* In press.
+
+<!-- -->
+
+21. **Van Wert JC**, Ahrens RMN, Crigler E, Jones TT, Marsik M, Rassel L, Reynolds E, Swimmer Y, Siders ZA. (2026). Retrospective analysis identifies largely effective seabird mitigation strategies with some opportunities for improvement. *Fisheries Research*.
+
+<!-- -->
+
+20. **Van Wert JC**, Johnston SD, Johnston QV, Zinn KR, Hendriks B, Weber LA, Siders ZA, Patterson DA, Robinson KA, Eliason EJ, Hinch SG. (2026). Dynamic time warping analysis of accelerometry data: a tool for interpreting fine-scale movement patterns during fish angling events. *Cons. Phys* 
+
+<!-- -->
 
 19. Pleizer N, Birnie-Gauvin K, Dressler T, Hardison EA, Kraskura K, Schwieterman G, Teffer AK, **Van Wert JC**, Blewett TA, Jeffries KM, Eliason EJ. (2025). Conservation physiology of freshwater fishes: pressing questions and implications for management. *Cons. Phys*. In press.
 
